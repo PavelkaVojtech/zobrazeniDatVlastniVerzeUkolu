@@ -1,0 +1,3 @@
+Šachy;true;1;
+Člověče nezlob se;false;2;
+Carcasone;true;3;
